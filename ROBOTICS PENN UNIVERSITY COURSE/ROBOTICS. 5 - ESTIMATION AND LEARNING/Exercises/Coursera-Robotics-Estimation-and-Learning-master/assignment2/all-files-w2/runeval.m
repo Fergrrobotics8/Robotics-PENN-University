@@ -1,2 +1,0 @@
-testpath = 'C:\Users\Fernando García\Documents\COSAS FERNANDO\ROBÓTICA\COURSERA ROBOTICS PENN UNIVERSITY COURSE\Slides\ROBOTICS. 5 - ESTIMATION AND LEARNING\Exercises\Coursera-Robotics-Estimation-and-Learning-master\assignment2\all-files-w2'; % This is the folder where test.mat is saved. Change the path if needed.
-eval_progW2(testpath)
